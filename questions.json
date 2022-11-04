@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "iddddd question",
+    "title" : "titleee eee",
+    "slug" : "slug-ggggg",
+    "user":{
+      "id" : "iddddd user",
+      "profile": {
+        "id" : "iddddd profile",
+        "username": "usernameeeee eee"
+      }
+    }
+  }
+]
